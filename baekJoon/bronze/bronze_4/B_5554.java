@@ -1,4 +1,4 @@
-package baekJoon.bronze.bronze4;
+package baekJoon.bronze.bronze_4;
 
 import java.util.Scanner;
 //입력은 총 4줄이며, 한 줄에 하나씩 양의 정수가 적혀있다.
